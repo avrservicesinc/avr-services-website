@@ -1,0 +1,16 @@
+AVR SERVICES OFFICIAL WEBSITE — DEPLOYMENT PACKAGE
+
+This folder is ready for a static Vercel deployment.
+
+Recommended deployment:
+1. Create a GitHub repository named avr-services-website.
+2. Upload every file and folder from this package to the repository root.
+3. Import that repository into Vercel.
+4. Framework Preset: Other.
+5. Build Command: leave blank.
+6. Output Directory: leave blank.
+7. Deploy.
+8. Add avrservicesinc.com and www.avrservicesinc.com under Project Settings > Domains.
+9. Add the exact A/CNAME records Vercel displays at your current DNS provider.
+
+IMPORTANT: Keep all Google Workspace MX/TXT records so office@avrservicesinc.com continues working.
